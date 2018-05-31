@@ -22,13 +22,6 @@ export class OlderCoaster extends React.Component {
     </div>
     )
   }
-  // this function should return the JSX we want the DOM to render
-  // render() {
-  //   return (
-  //     <div>Hello!</div>
-  //   )
-  // }
-  //
 }
 
 export class InFrontOfYou extends React.Component {
