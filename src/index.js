@@ -51,7 +51,7 @@ export class ButcherShop extends React.Component { // eslint-disable-next-lin
     </div>
     )
   }
-}
+}// eslint-disable-next-lin
 
 
 export class App extends React.Component {
