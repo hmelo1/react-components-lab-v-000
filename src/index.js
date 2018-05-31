@@ -36,7 +36,7 @@ export class InFrontOfYou extends React.Component {
   }
 }
 
-export class ButcherShop extends React.Component {
+export class ButcherShop extends React.Component { //eslint-disable-next-line
   // your code here
   render(){
     return (
