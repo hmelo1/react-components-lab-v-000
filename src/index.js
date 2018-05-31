@@ -36,11 +36,6 @@ export class InFrontOfYou extends React.Component {
   }
 }
 
-<li>Tenderloin</li>
-<li>Short ribs</li>
-<li>Beef shin</li>
-<li>Ribeye</li>
-
 const meats = [<li>{BUTCHER_PRODUCTS[0]}</li>, <li>{BUTCHER_PRODUCTS[1]}</li>, <li>{BUTCHER_PRODUCTS[2]}</li>, <li>{BUTCHER_PRODUCTS[3]}</li>]
 
 export class ButcherShop extends React.Component {
